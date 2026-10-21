@@ -46,11 +46,11 @@ Built for the **Slow and Steady** open-source AI challenge.
 <table>
   <tr>
     <td width="50%">
-      <h3>🧠 Brain Dump</h3>
+      <h3>Brain Dump</h3>
       <p>Get everything out of your head. Transform unstructured thoughts into organized, actionable tasks with AI assistance.</p>
     </td>
     <td width="50%">
-      <h3>📋 Smart Task Manager</h3>
+      <h3>Smart Task Manager</h3>
       <p>Create, organize, prioritize, search, and complete tasks without unnecessary complexity.</p>
     </td>
   </tr>
@@ -126,7 +126,7 @@ The application is designed to use compatible open-weight language models throug
 | Fewer API costs | Local inference avoids mandatory paid AI API calls. |
 | Offline potential | Local inference can work without internet after the necessary models and dependencies are installed. |
 
-### 🔄 How it works
+### How it works
 
 ```mermaid
 flowchart TD
@@ -148,7 +148,7 @@ flowchart TD
 
 *Illustrative architecture. Actual processing and storage depend on the configured implementation.*
 
-### 🛡️ Privacy by Design
+### Privacy by Design
 
 - Task data is intended to remain local by default.
 - AI requests go to the configured model endpoint.
@@ -160,7 +160,7 @@ Local inference is not automatically a guarantee of complete offline operation. 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 |---|---|
@@ -187,7 +187,7 @@ Local inference is not automatically a guarantee of complete offline operation. 
 
 If Ollama is unavailable, use the application's supported fallback mode.
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, ideas, and thoughtful improvements are welcome.
 
@@ -207,7 +207,7 @@ Please keep contributions aligned with Slothful's core principles:
 
 ---
 
-## 🔐 Privacy and Security
+## Privacy and Security
 
 Slothful is designed around local-first data handling.
 
@@ -222,7 +222,7 @@ Before using the application with sensitive information, verify your configured 
 ---
 
 
-## 🌱 The Slow and Steady Philosophy
+## The Slow and Steady Philosophy
 
 Slothful was inspired by the idea that doing things at a sustainable pace is better than constantly feeling behind.
 
